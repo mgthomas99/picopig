@@ -1,11 +1,14 @@
 [github-index-url]: https://github.com/mgthomas99/picopig/blob/master/index.html
+[github-license-url]: https://github.com/mgthomas99/picobrain/blob/master/LICENSE
+[github-license-shield-url]: https://img.shields.io/github/license/mgthomas99/picobrain.svg?style=flat-square
 [github-size-shield-url]: https://img.shields.io/github/size/mgthomas99/picopig/index.html.svg?style=flat-square
 
 # picopig
 
 [![Github file size][github-size-shield-url]][github-index-url]
+[![GitHub][github-license-shield-url]][github-license-url]
 
-A 162-byte implementation of the dice game [Pig](https://en.wikipedia.org/wiki/Pig_(dice_game)).
+A 139-byte implementation of the dice game [Pig](https://en.wikipedia.org/wiki/Pig_(dice_game)).
 
 ## How to Play
 
