@@ -1,6 +1,6 @@
 [github-index-url]: https://github.com/mgthomas99/picopig/blob/master/index.html
-[github-license-url]: https://github.com/mgthomas99/picobrain/blob/master/LICENSE
-[github-license-shield-url]: https://img.shields.io/github/license/mgthomas99/picobrain.svg?style=flat-square
+[github-license-url]: https://github.com/mgthomas99/picopig/blob/master/LICENSE
+[github-license-shield-url]: https://img.shields.io/github/license/mgthomas99/picopig.svg?style=flat-square
 [github-size-shield-url]: https://img.shields.io/github/size/mgthomas99/picopig/index.html.svg?style=flat-square
 
 # picopig
@@ -18,6 +18,7 @@ but note that this will actually polyfill some browser functions and therefore
 you will be playing an *ungolfed* version of the game.
 
 The prompt that is displayed will show three numbers:
+
 - The first number is the player's ID (it will be either `0` or `1`).
 - The second number is the player's total.
 - The third number is the player's turn total.
