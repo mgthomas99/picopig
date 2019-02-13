@@ -12,7 +12,10 @@ A 139-byte implementation of the dice game [Pig](https://en.wikipedia.org/wiki/P
 
 ## How to Play
 
-Open the `index.html` file in your preferred web browser.
+Open the `index.html` file in your preferred web browser. Alternatively, the
+game can be played via Node.JS by running `node index.js` from the command line,
+but note that this will actually polyfill some browser functions and therefore
+you will be playing an *ungolfed* version of the game.
 
 The prompt that is displayed will show three numbers:
 - The first number is the player's ID (it will be either `0` or `1`).
